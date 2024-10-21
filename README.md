@@ -40,9 +40,7 @@ To run this project locally, follow these steps:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Suggestions for improvements and enhancements are always welcome!
 
-▎License
 
-This project is open-source and available under the MIT License.
 
 ▎Acknowledgments
 
