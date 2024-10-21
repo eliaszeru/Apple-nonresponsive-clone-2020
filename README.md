@@ -8,14 +8,14 @@ You can view the live demo of the cloned website here.
 
 Features
 
- • Static design inspired by the Apple 2020 homepage
- • Clean and modern layout
- • Custom CSS for styling
+	•	Static design inspired by the Apple 2020 homepage
+	•	Clean and modern layout
+	•	Custom CSS for styling
 
 Technologies Used
 
- • HTML
- • CSS
+	•	HTML
+	•	CSS
 
 Limitations
 
