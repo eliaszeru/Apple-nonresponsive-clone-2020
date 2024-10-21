@@ -6,7 +6,7 @@ Welcome to the Apple 2020 Homepage Clone project! This project aims to replicate
 
 You can view the cloned homepage by clicking the link below:
 
-Click here to view the Apple 2020 Clone
+https://itsme442.github.io/Apple-nonresponsive-clone-2020/
 
 ▎Features
 
