@@ -1,40 +1,53 @@
-Apple 2020 Home Page Clone
+▎Apple 2020 Homepage Clone
 
-Welcome to the Apple 2020 Home Page Clone project! This repository contains the HTML and CSS files used to replicate the design of Apple’s homepage from 2020. The project serves as a practice for web development skills, particularly in understanding layout and styling.
+Welcome to the Apple 2020 Homepage Clone project! This project aims to replicate the look and feel of Apple's official homepage from 2020 using HTML and CSS. Please note that this clone is not responsive, meaning it is designed for desktop viewing only.
 
-Demo
+▎Live Demo
 
-You can view the live demo of the cloned website here.
+You can view the cloned homepage by clicking the link below:
 
-Features
+Click here to view the Apple 2020 Clone
 
-	•	Static design inspired by the Apple 2020 homepage
-	•	Clean and modern layout
-	•	Custom CSS for styling
+▎Features
 
-Technologies Used
+• HTML Structure: The project uses semantic HTML to create a well-organized structure.
 
-	•	HTML
-	•	CSS
+• CSS Styling: Custom styles are applied to match the aesthetics of the original Apple homepage.
 
-Limitations
+• Static Layout: The layout is fixed and does not adapt to different screen sizes.
 
-Please note that this clone is not responsive, meaning it is optimized for desktop viewing only.
+▎Technologies Used
 
-Getting Started
+• HTML
 
-To run this project locally, clone the repository and open the index.html file in your browser.
+• CSS
 
-git clone https://github.com/itsme442/Apple-nonresponsive-clone-2020.git
-cd Apple-nonresponsive-clone-2020
-open index.html
+▎Installation
 
-Contributing
+To run this project locally, follow these steps:
 
-Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
+1. Clone the repository:
+      git clone https://github.com/itsme442/Apple-nonresponsive-clone-2020.git
+   
 
-License
+2. Navigate to the project directory:
+      cd Apple-nonresponsive-clone-2020
+   
 
-This project is open source and available under the MIT License.
+3. Open index.html in your favorite web browser.
 
-Thank you for checking out my project! I hope you find it useful for your learning journey.
+▎Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Suggestions for improvements and enhancements are always welcome!
+
+▎License
+
+This project is open-source and available under the MIT License.
+
+▎Acknowledgments
+
+• Inspiration from Apple's official homepage design.
+
+• Thanks to the developers and designers who create resources that help others learn and grow.
+
+Feel free to explore the code, and enjoy the project!
