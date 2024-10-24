@@ -6,7 +6,7 @@ Welcome to the Apple 2020 Homepage Clone project! This project aims to replicate
 
 You can view the cloned homepage by clicking the link below:
 
-https://itsme442.github.io/Apple-nonresponsive-clone-2020/
+https://eliaszeru.github.io/Apple-nonresponsive-clone-2020/
 
 ▎Features
 
@@ -27,7 +27,7 @@ https://itsme442.github.io/Apple-nonresponsive-clone-2020/
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-      git clone https://github.com/itsme442/Apple-nonresponsive-clone-2020.git
+      git clone https://github.com/eliaszeru/Apple-nonresponsive-clone-2020.git
    
 
 2. Navigate to the project directory:
